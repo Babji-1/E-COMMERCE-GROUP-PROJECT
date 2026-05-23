@@ -10,14 +10,20 @@ project for predicting whether a customer made a purchase or not.
 
 # DATA UNDERSTANDING
 Dataset was sourced from kaggle.
+
 Variables include revenue,page values,exit rates,bounce rates etc.
+
 Target variable is revenue where:
+
           false-no purchase
+          
           true-purchase occurred
 
 # DATA CLEANING
 Checked for missing values
+
 Removed duplicate records
+
 Prepared data for machine learning
 
 # EXPLORATORY DATA ANALYSIS(EDA)
@@ -55,9 +61,9 @@ A Random Forest model was used because:
 - F1-score
 
 ## Tools used
-Python
-Pandas
-NumPy
-Scikit-learn
-Matplotlib
-Seaborn
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
