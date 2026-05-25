@@ -1,6 +1,7 @@
 # E-COMMERCE-GROUP-PROJECT
 project for predicting whether a customer made a purchase or not.
-
+## The canva presentation for this project can be found [here](https://canva.link/u3fy7qtvicm874r)
+## A Tableau Dashboard for the project can also be accessed via [this link](https://public.tableau.com/app/profile/twyla.cherop/viz/ONLINESHOPPERS/ONLINESHOPPERS)
 # OBJECTIVES
 - To analyze the distribution of purchase and non-purchase sessions in the dataset.
 - To examine how bounce rates and exit rates influence purchasing behavior.
